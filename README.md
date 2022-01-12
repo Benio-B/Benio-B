@@ -2,7 +2,7 @@
 
 ---
 
-I'm a web developer, currently working at Enalean. You can find more information on my [portfolio](https://benio-b.github.io) (🚧 it's under construction, not all pages exist yet).
+I'm a web developer, currently working at Wizbii. You can find more information on my [portfolio](https://benio-b.github.io) (🚧 it's under construction, not all pages exist yet).
 
 ---
 
